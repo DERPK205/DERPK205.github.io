@@ -1,0 +1,14 @@
+<nav>
+    <lu class="menu-">
+        <li><a href="index.html">Inicio</a></li>
+</nav>
+<nav>
+    <lu class="menu-">
+        <li><a href="transformacion.html">Transformacion de la energia Electrica</a></li> 
+</nav>
+<nav>
+    <li><a href="distribucion.html">Distribucion en Mexico</a></li>
+</nav>
+<nav>
+    li><a href="problematica.html">Problematica</a></li>
+</nav>

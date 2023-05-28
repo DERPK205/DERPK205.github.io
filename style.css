@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+h1{
+    color: rgb(255, 255, 255);
+    margin-top: 0%;
+    padding-top: 10;
+    border-color: black;
+
+}
+.img{
+    height: 600px
+}
+.Alinear_Flex{
+    display: flex;
+    justify-content: center;
+}
+.cetexto{
+    text-align: center;
+}
+.header{
+    display: flex;
+
+    justify-content: center;
+}
+#container{
+max-width: 1200px;
+margin: 0 auto;
+background-color: rgb(95, 20, 76);
+}
+.box{height: 600px
+    ;}
+body{
+    background-image: url(https://th.bing.com/th/id/R.4ac011c7349b75d7117ca0f230aa80b2?rik=rii8FSXljC6nUQ&pid=ImgRaw&r=0 );
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.4ac011c7349b75d7117ca0f230aa80b2?rik=rii8FSXljC6nUQ&pid=ImgRaw&r=0);
+    background-repeat: repeat-y;
+}
+#main-menu{
+ float: left;
+ 
+}
+
+a{
+    color: rgb(0, 253, 0);
+    transition: all 0.3s;
+}
+
+a:hover{
+    color: var(--primary-color-dark);
+}
+
+            
+.contenedor{
+    
+    height: 50px;
+    margin-left: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:center;
+    
+
+}
+h2{
+    color: azure;
+    margin-top: 0%;
+    padding-top: 0;
+    border-color: black;
+}
+h3{
+    color: crimson;
+    border-color: black;
+}
+.visitas{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:center;
+}
+
